@@ -39,6 +39,10 @@ To remove a product from the cart, click the "Delete" button.
 
 To checkout the cart, click the "Cart" button.
 
+**Deployment Link:** https://cart-app-blush.vercel.app
+
+**Fake API Link:** http://fakestoreapi.com
+
 ## License
 
 This project is licensed under the MIT License.
